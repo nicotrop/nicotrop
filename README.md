@@ -4,7 +4,7 @@ I'm **Nico**, a fullstack developer and Shopify expert.
 
 I specialize in helping e-merchants build, optimize, and grow their online stores on the Shopify platform. Whether it's customizing the look and feel of a store, implementing new features, or optimizing conversion rates, I love working with clients to bring their vision to life.
 
-I love using React, Next.js, Tailwind CSS, and Nest.js to build new projects and I'm comfortable working with SQL and NOSQL databases. I'm always looking for new challenges and opportunities to improve my skills.
+I love using React, Next.js, Tailwind CSS, and Nest.js to build new projects and I'm comfortable working with SQL and NOSQL databases. I'm always looking for new challenges and opportunities to work on interesting projetcs.
 
 Things I code with:
 
