@@ -6,7 +6,7 @@ I specialize in helping e-merchants build, optimize, and grow their online store
 
 I love using React, Next.js, Tailwind CSS, and Nest.js to build new projects and I'm comfortable working with SQL and NOSQL databases. I'm always looking for new challenges and opportunities to improve my skills.
 
-List of things I code with
+Things I code with:
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
