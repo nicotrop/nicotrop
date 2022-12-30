@@ -21,6 +21,7 @@ Things I code with:
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Shopify-43853d?style=flat-square&logo=Shopify&logoColor=white" />
 </p>
 
 Feel free to reach out to me on Twitter [@playoffsnico](https://twitter.com/playoffsnico). I'd love to chat about my work as a developer and Shopify expert, or anything else!
