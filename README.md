@@ -1,4 +1,4 @@
-### Hey there! 🙌
+### Hey there! 👋
 
 I'm **Nico**, a full stack JavaScript developer and Shopify expert with a passion for building clean, modern web experiences.
 
