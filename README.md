@@ -22,4 +22,4 @@ Things I code with:
   <img alt="Shopify" src="https://img.shields.io/badge/-Shopify-43853d?style=flat-square&logo=Shopify&logoColor=white" />
 </p>
 
-Feel free to reach out to me on Twitter [@playoffsnico](https://twitter.com/playoffsnico). I'd love to chat about my work as a developer and Shopify expert, or anything else!
+Feel free to reach out to me on Twitter [@playoffsnico](https://twitter.com/playoffsnico). I'd love to chat about my work, or anything else!
