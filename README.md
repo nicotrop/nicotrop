@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm **Nico**, a fullstack developer and Shopify expert.
+I'm **Nico**, a developer and Shopify partner.
 
 I specialize in helping e-merchants build, optimize, and grow their online stores on the Shopify platform. Whether it's customizing the look and feel of a store, implementing new features, or optimizing conversion rates, I love working with clients to bring their vision to life.
 
